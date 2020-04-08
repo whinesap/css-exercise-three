@@ -79,3 +79,9 @@ nav {
 .class:hover {
   color: #b3adad
 }
+
+.restaurant-list {
+  div { 
+    width: 70%
+  }
+}
