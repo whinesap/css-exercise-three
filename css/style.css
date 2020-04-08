@@ -50,6 +50,10 @@ table {
 
 /*** custom CSS ***/
 
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #333;
   font-family: sans-serif;
@@ -70,4 +74,8 @@ nav {
 
 .restaurant-list {
   padding-top: 50px;
+}
+
+.class:hover {
+  color: #b3adad
 }
