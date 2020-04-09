@@ -64,6 +64,7 @@ body {
 .container {
   margin: 0 auto;
   width: 420px;
+  height: 100%;
 }
 
 nav {
