@@ -67,7 +67,7 @@ h1 {
 
 .container {
   margin: 0 auto;
-  width: 420px;
+  width: 100%;
 }
 
 nav {
@@ -88,8 +88,6 @@ nav {
     color: #b3adad
   }
   
-.arrow  {
-  align-content: right;
-}
+
 
 
