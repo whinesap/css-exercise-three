@@ -50,17 +50,17 @@ table {
 
 /*** custom CSS ***/
 
+* { 
+  box-sizing: border-box;
+}
 
-
-body{
- 
+body {
   background-color: #333;
   font-family: sans-serif;
   font-size: 10px;
-  display: block;}
-  *, *:before, *:after {
-    box-sizing: border-box;
+  display: block;
   }
+ 
 
 
 .container {
