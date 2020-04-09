@@ -76,14 +76,12 @@ nav {
 .restaurant-list {
   padding-top: 50px;
   background-color: #f3f3f3
+  div {
+    width: 100%;
+  }
 }
 
 .class:hover {
   color: #b3adad
 }
 
-.restaurant-list {
-  div { 
-    width: 100%
-  }
-}
