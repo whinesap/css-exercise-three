@@ -93,7 +93,7 @@ nav {
     padding: 4%;
   }
   .arrow {
-    align-content: right;
+    align-self: right;
   }
    
 
