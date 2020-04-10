@@ -93,10 +93,8 @@ nav {
     padding: 4%;
   }
   .arrow {
-    text-align: right, center;
-    position: relative;
-    float: right;
-    
+    text-align: right;
+    align-content: center;
   }
    
 
