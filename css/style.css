@@ -93,7 +93,8 @@ nav {
     padding: 4%;
   }
   .arrow {
-  
+    position: absolute;
+    right: 20px
   }
    
 
