@@ -81,7 +81,7 @@ nav {
 
 .restaurant-list {
   padding-top: 2em;
-  background-color: #f3f3f3; 
+  background-color: #ebebeb; 
 }
   div {
     width: 100%;
@@ -89,8 +89,10 @@ nav {
     color: #b3adad
   }
   .location {
-    border-bottom: 1px solid #969696;
+    border-bottom: 1px solid #a7a7a7;
+    padding: 10%;
   }
+
 
 
 
